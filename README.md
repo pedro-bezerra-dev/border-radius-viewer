@@ -4,7 +4,7 @@
 
 An intuitive simulator of the application of the CSS border-radius property made in HTML, CSS and JavaScript.
 
-**Click here to access**
+**[Click here to access](https://pedro-henrique-sb.github.io/border-radius-viewer/)**
 
 ## Demonstration
 
